@@ -1,0 +1,8 @@
+- Stwórz klase Stack.
+- użyj pliku .h i .cpp
+- Zaimplementuj metodę .push()
+- Zaimplementuj metodę .pop()
+- Zaimplementuj metodę .top()
+- Zaimplementuj metodę .empty()
+- Zaimplementuj metodę .size()
+- Stwórz demo, które zatwierdzi Rafał
